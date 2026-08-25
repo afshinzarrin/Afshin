@@ -7,3 +7,4 @@ night 33
 night 40
 60
 6
+enter the game
