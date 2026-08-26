@@ -2,9 +2,5 @@
 Hoppy
 test no test
 yes
-night 30
-night 33
-night 40
-60
-6
+night 54
 enter the game
